@@ -1,0 +1,30 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------------< com.duc:VNPAY-Demo >-------------------------
+[INFO] Building VNPAY-Demo 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.2.0:clean (default-clean) @ VNPAY-Demo ---
+[INFO] Deleting D:\Github_desktop_source\VNPAY-Springboot-Demo\target
+[INFO] 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ VNPAY-Demo ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 4 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ VNPAY-Demo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 4 source files to D:\Github_desktop_source\VNPAY-Springboot-Demo\target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.021 s
+[INFO] Finished at: 2025-12-27T17:06:22+07:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.10.1:compile (default-compile) on project VNPAY-Demo: Fatal error compiling: invalid target release: 17 -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
